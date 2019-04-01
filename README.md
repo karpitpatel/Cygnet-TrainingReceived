@@ -1,4 +1,4 @@
 # Cygnet-TrainingReceived
 
-Coding Guidelines
-Web api guidelines
+1.Coding Guidelines
+2.Web api guidelines
